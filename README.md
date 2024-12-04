@@ -65,4 +65,4 @@ Crowd Wave is a robust platform for discovering events, purchasing tickets, and 
 ### Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/PrakharSingh0/crowd-wave.git  
+   git clone https://github.com/kartkp/ticket_project.git 
