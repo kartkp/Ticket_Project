@@ -26,9 +26,13 @@ Crowd Wave is a robust platform for discovering events, purchasing tickets, and 
 
 ### Dashboard & Event Listings  
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/25c87ec2-ef43-423e-8ecd-68a0c291f5bd" width="200" alt="Dashboard">
-  <img src="https://github.com/user-attachments/assets/423e4ee2-b5ea-492b-a6ac-aea4e5d882ad" width="200" alt="Event Listings">
-  <img src="https://github.com/user-attachments/assets/8bf88be4-8cf9-435e-bd49-f175a509cf07" width="200" alt="Event Details">
+  <img src="https://res.cloudinary.com/dnsjdvzdn/image/upload/v1733316443/Screenshot_20241204_181532_u9keth.jpg" width="200" alt="Dashboard">
+  <img src="https://res.cloudinary.com/dnsjdvzdn/image/upload/v1733316444/Screenshot_20241204_181540_d2ie7m.jpg" width="200" alt="Event Listings">
+  <img src="https://res.cloudinary.com/dnsjdvzdn/image/upload/v1733316443/Screenshot_20241204_181547_gekxom.jpg" width="200" alt="Event Details">
+  <img src="https://github.com/user-attachments/assets/ba967ac7-cda7-4e4d-8a0f-9053a82984e4" width="200" style="margin: 20px;">
+  <img src="https://github.com/user-attachments/assets/9405c27f-5ab8-4634-b9a7-e922d3faa10e" width="200" style="margin: 20px;">
+  <img src="https://github.com/user-attachments/assets/07c62693-bec6-4820-99be-1854ef81dea9" width="200" style="margin: 20px;">
+  
 </p>
 
 ### Event Manager & Ticket Validation  
