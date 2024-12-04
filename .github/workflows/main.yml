@@ -16,12 +16,12 @@ jobs:
       - name: Set up Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.13.0' # Use a compatible Flutter version
+          flutter-version: '3.13.0' # Use a compatible version
 
       - name: Clean Flutter cache
         run: flutter clean
 
-      - name: Get dependencies
+      - name: Install dependencies
         run: flutter pub get
 
       - name: Run tests
